@@ -1,0 +1,6 @@
+{
+  "name": "Radar Hub",
+  "description": "Radar Hub com modo SOS",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
